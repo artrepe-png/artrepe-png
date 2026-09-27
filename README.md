@@ -5,8 +5,8 @@ Estudante de Engenharia de Produção Mecânica (UDESC), com atuação em automa
 ## 🔭 No momento
 
 - Bolsista de pesquisa no laboratório de ensaios mecânicos da UDESC, desenvolvendo um sistema em **Python/Flask** para gestão de dados de uso de equipamentos
-- Estudando Python por conta própria diariamente, aprofundando em análise de dados e boas práticas de desenvolvimento
-- Em transição para a área de dados, com mentoria semanal de um cientista de dados
+- Estudante de Python com ênfase em análise de dados e desenvolvimento de software.
+- Em transição para a carreira de dados
 
 ## 🛠️ Tecnologias e ferramentas
 
